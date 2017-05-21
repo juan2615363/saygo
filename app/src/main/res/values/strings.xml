@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">说走</string>
+
+    <string name="btn_login">登录</string>
+    <string name="hint_username">请输入手机号</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="hint_mobile">请输入手机号</string>
+    <string name="hint_verify_code">请输入验证码</string>
+    <string name="hint_set_pwd">请输入6~20位密码</string>
+    <string name="hint_register_name">请输入用户名</string>
+    <string name="text_get_pwd_back">忘记密码？</string>
+    <string name="text_get_verify_code">发送验证码</string>
+    <string name="action_next_step">立即注册</string>
+    <string name="title_register">注册</string>
+    <string name="text_switch_to_mobile">切换至手机号注册</string>
+    <string name="text_switch_to_email">切换至邮箱注册</string>
+    <string name="city">出行地点选择</string>
+    <string name="province">车队选择</string>
+    <string name="title_reset_pwd">忘记密码</string>
+    <string name="hint_set_password">请输入密码</string>
+    <string name="hint_again_password">请确认密码</string>
+    <string name="btn_reset_pwd">确定</string>
+    <string name="login_title">登录</string>
+    <string name="register_message">个人信息设置</string>
+    <string name="register_my">注册</string>
+    <string name="protocol">我同意</string>
+    <string name="update_title">修改密码</string>
+</resources>
